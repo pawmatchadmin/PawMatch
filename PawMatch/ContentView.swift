@@ -13,14 +13,24 @@ struct ContentView: View {
         NavigationView {
             List {
 
-                // AI Matching entry (premium gated inside the view)
+                // AI Matching entry (premium gated inside AIMatchingView)
                 Section {
                     NavigationLink {
                         AIMatchingView()
                     } label: {
                         HStack {
-                            Image(systemName: "sparkles")
+                            Image(systemName: PremiumManager.shared.isPremium ? "sparkles" : "lock.fill")
+                                .foregroundColor(PremiumManager.shared.isPremium ? .blue : .gray)
+
                             Text("AI Matching")
+
+                            Spacer()
+
+                            if !PremiumManager.shared.isPremium {
+                                Text("Premium")
+                                    .font(.caption)
+                                    .foregroundColor(.gray)
+                            }
                         }
                     }
                 }
