@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		2CD15A772EF1E5E0006690AF /* Pet+CoreDataClass.swift .swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CD15A762EF1E5E0006690AF /* Pet+CoreDataClass.swift .swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		2CD15A412EF1D575006690AF /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +31,7 @@
 		2CD15A2E2EF1D571006690AF /* PawMatch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PawMatch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2CD15A402EF1D575006690AF /* PawMatchTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PawMatchTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2CD15A4A2EF1D575006690AF /* PawMatchUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PawMatchUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		2CD15A762EF1E5E0006690AF /* Pet+CoreDataClass.swift .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Pet+CoreDataClass.swift .swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -75,6 +80,7 @@
 		2CD15A252EF1D571006690AF = {
 			isa = PBXGroup;
 			children = (
+				2CD15A762EF1E5E0006690AF /* Pet+CoreDataClass.swift .swift */,
 				2CD15A302EF1D571006690AF /* PawMatch */,
 				2CD15A432EF1D575006690AF /* PawMatchTests */,
 				2CD15A4D2EF1D575006690AF /* PawMatchUITests */,
@@ -236,6 +242,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2CD15A772EF1E5E0006690AF /* Pet+CoreDataClass.swift .swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
