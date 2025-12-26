@@ -1,0 +1,99 @@
+{
+  "" : {
+    "diagnostics" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/PawMatch-primary.dia",
+    "emit-module-dependencies" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/PawMatch-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/PawMatch-primary-emit-module.dia",
+    "pch" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/PawMatch-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/PawMatch-primary.swiftdeps"
+  },
+  "/Users/johncastillo/Desktop/PawMatch/PawMatch/AIMatchingView.swift" : {
+    "const-values" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/AIMatchingView.swiftconstvalues",
+    "dependencies" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/AIMatchingView.d",
+    "diagnostics" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/AIMatchingView.dia",
+    "index-unit-output-path" : "/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/AIMatchingView.o",
+    "llvm-bc" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/AIMatchingView.bc",
+    "object" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/AIMatchingView.o",
+    "swift-dependencies" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/AIMatchingView.swiftdeps",
+    "swiftmodule" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/AIMatchingView~partial.swiftmodule"
+  },
+  "/Users/johncastillo/Desktop/PawMatch/PawMatch/ContentView.swift" : {
+    "const-values" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/ContentView.d",
+    "diagnostics" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/ContentView.dia",
+    "index-unit-output-path" : "/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/ContentView.o",
+    "llvm-bc" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/ContentView.bc",
+    "object" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/ContentView.o",
+    "swift-dependencies" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/ContentView~partial.swiftmodule"
+  },
+  "/Users/johncastillo/Desktop/PawMatch/PawMatch/PawMatchApp.swift" : {
+    "const-values" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/PawMatchApp.swiftconstvalues",
+    "dependencies" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/PawMatchApp.d",
+    "diagnostics" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/PawMatchApp.dia",
+    "index-unit-output-path" : "/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/PawMatchApp.o",
+    "llvm-bc" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/PawMatchApp.bc",
+    "object" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/PawMatchApp.o",
+    "swift-dependencies" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/PawMatchApp.swiftdeps",
+    "swiftmodule" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/PawMatchApp~partial.swiftmodule"
+  },
+  "/Users/johncastillo/Desktop/PawMatch/PawMatch/Persistence.swift" : {
+    "const-values" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/Persistence.swiftconstvalues",
+    "dependencies" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/Persistence.d",
+    "diagnostics" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/Persistence.dia",
+    "index-unit-output-path" : "/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/Persistence.o",
+    "llvm-bc" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/Persistence.bc",
+    "object" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/Persistence.o",
+    "swift-dependencies" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/Persistence.swiftdeps",
+    "swiftmodule" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/Persistence~partial.swiftmodule"
+  },
+  "/Users/johncastillo/Desktop/PawMatch/PawMatch/Pet+CoreDataClass.swift" : {
+    "const-values" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/Pet+CoreDataClass.swiftconstvalues",
+    "dependencies" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/Pet+CoreDataClass.d",
+    "diagnostics" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/Pet+CoreDataClass.dia",
+    "index-unit-output-path" : "/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/Pet+CoreDataClass.o",
+    "llvm-bc" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/Pet+CoreDataClass.bc",
+    "object" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/Pet+CoreDataClass.o",
+    "swift-dependencies" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/Pet+CoreDataClass.swiftdeps",
+    "swiftmodule" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/Pet+CoreDataClass~partial.swiftmodule"
+  },
+  "/Users/johncastillo/Desktop/PawMatch/PawMatch/Pet+CoreDataProperties.swift" : {
+    "const-values" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/Pet+CoreDataProperties.swiftconstvalues",
+    "dependencies" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/Pet+CoreDataProperties.d",
+    "diagnostics" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/Pet+CoreDataProperties.dia",
+    "index-unit-output-path" : "/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/Pet+CoreDataProperties.o",
+    "llvm-bc" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/Pet+CoreDataProperties.bc",
+    "object" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/Pet+CoreDataProperties.o",
+    "swift-dependencies" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/Pet+CoreDataProperties.swiftdeps",
+    "swiftmodule" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/Pet+CoreDataProperties~partial.swiftmodule"
+  },
+  "/Users/johncastillo/Desktop/PawMatch/PawMatch/Placeholders.swift" : {
+    "const-values" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/Placeholders.swiftconstvalues",
+    "dependencies" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/Placeholders.d",
+    "diagnostics" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/Placeholders.dia",
+    "index-unit-output-path" : "/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/Placeholders.o",
+    "llvm-bc" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/Placeholders.bc",
+    "object" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/Placeholders.o",
+    "swift-dependencies" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/Placeholders.swiftdeps",
+    "swiftmodule" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/Placeholders~partial.swiftmodule"
+  },
+  "/Users/johncastillo/Desktop/PawMatch/PawMatch/PremiumManager.swift" : {
+    "const-values" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/PremiumManager.swiftconstvalues",
+    "dependencies" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/PremiumManager.d",
+    "diagnostics" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/PremiumManager.dia",
+    "index-unit-output-path" : "/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/PremiumManager.o",
+    "llvm-bc" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/PremiumManager.bc",
+    "object" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/PremiumManager.o",
+    "swift-dependencies" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/PremiumManager.swiftdeps",
+    "swiftmodule" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/PremiumManager~partial.swiftmodule"
+  },
+  "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/johncastillo/Desktop/PawMatch/_DerivedData/Build/Intermediates.noindex/PawMatch.build/Debug-iphonesimulator/PawMatch.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

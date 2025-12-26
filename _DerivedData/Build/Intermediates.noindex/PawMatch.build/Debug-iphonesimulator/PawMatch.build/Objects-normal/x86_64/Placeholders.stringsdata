@@ -1,0 +1,40 @@
+{
+  "source": "/Users/johncastillo/Desktop/PawMatch/PawMatch/Placeholders.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Marketplace",
+        "location": {
+          "startingColumn": 6,
+          "startingLine": 8
+        }
+      },
+      {
+        "comment": "",
+        "key": "coming soon",
+        "location": {
+          "startingColumn": 6,
+          "startingLine": 11
+        }
+      },
+      {
+        "comment": "",
+        "key": "Adopt a Pet",
+        "location": {
+          "startingColumn": 6,
+          "startingLine": 23
+        }
+      },
+      {
+        "comment": "",
+        "key": "coming soon",
+        "location": {
+          "startingColumn": 6,
+          "startingLine": 26
+        }
+      }
+    ]
+  },
+  "version": 1
+}

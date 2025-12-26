@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+
+# Node / Vite
+node_modules/
+dist/
+.env
+.env.*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Xcode / Swift / iOS
+DerivedData/
+*.xcuserstate
+*.xcworkspace
+xcuserdata/
+*.swp
+*.orig
+
+# CocoaPods / SPM
+Pods/
+.build/
+.swiftpm/

@@ -1,0 +1,32 @@
+{
+  "source": "/Users/johncastillo/Desktop/PawMatch/PawMatch/AIMatchingView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "AI Matching",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 12
+        }
+      },
+      {
+        "comment": "",
+        "key": "AI Matching",
+        "location": {
+          "startingColumn": 6,
+          "startingLine": 6
+        }
+      },
+      {
+        "comment": "",
+        "key": "Placeholder screen (build-safe).",
+        "location": {
+          "startingColumn": 6,
+          "startingLine": 7
+        }
+      }
+    ]
+  },
+  "version": 1
+}
