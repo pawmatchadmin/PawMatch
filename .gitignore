@@ -22,3 +22,14 @@ xcuserdata/
 Pods/
 .build/
 .swiftpm/
+
+# Xcode build output
+DerivedData/
+_DerivedData/
+*.xcuserdata/
+xcuserdata/
+*.xcuserstate
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM
